@@ -55,7 +55,7 @@ The proposed XGBoost-based framework achieved forecasting accuracy significantly
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### Walmart Weekly Sales Dataset
 
@@ -72,7 +72,7 @@ The dataset provides realistic retail demand patterns and enables evaluation acr
 
 ---
 
-## 🔧 Data Engineering Pipeline
+## Data Engineering Pipeline
 
 The forecasting workflow includes extensive feature engineering:
 
@@ -167,7 +167,7 @@ This hybrid architecture improves robustness while maintaining interpretability.
 
 ---
 
-## 📈 Model Evaluation Metrics
+## Model Evaluation Metrics
 
 Performance was measured using:
 
